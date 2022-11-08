@@ -49,7 +49,8 @@ const teamMembers: Array<TeamMemberProps> = [
 		}
 	},
 	{
-		name: 'Utku Bakir',
+		// \u0131 = dotless lowercase 'I' character -- proper spelling
+		name: 'Utku Bak\u0131r',
 		role: 'React Native Engineer',
 		image: teamImages['utku.jpg'],
 		socials: {
