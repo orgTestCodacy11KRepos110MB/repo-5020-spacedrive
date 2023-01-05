@@ -33,6 +33,8 @@ specta = { version = "0.0.4" }
 [patch.crates-io]
 # We use this patch so we can compile for the IOS simulator on M1
 openssl-sys = { git = "https://github.com/spacedriveapp/rust-openssl", rev = "92c3dec225a9e984884d5b30a517e5d44a24d03b" }
+ffmpeg-sys-next = { git = "https://github.com/oscartbeaumont/rust-ffmpeg-sys.git", rev = "78015ff4175af29d5febec994297f98f812d0979" } # TODO: For better error messages in `build.rs`. Do PR upstream!
+
 
 rspc = { git = "https://github.com/oscartbeaumont/rspc", rev = "73d60f9cb901661f9f0f8e953477b3558f2715d1" }   # TODO: Move back to crates.io when new jsonrpc executor is released
 normi = { git = "https://github.com/oscartbeaumont/rspc", rev = "73d60f9cb901661f9f0f8e953477b3558f2715d1" }  # TODO: When normi is released on crates.io
