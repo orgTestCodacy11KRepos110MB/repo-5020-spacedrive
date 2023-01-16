@@ -13,10 +13,10 @@
 		<br />
 		<a href="https://spacedrive.com"><strong>spacedrive.com</strong><span role="img" aria-label="Visit website"> »</span></a>
 	</p>
-	<p align="center" style="margin-bottom: 0;">
+	<p align="center">
 		<br />
 		<strong>Download for:</strong>
-		<span style="opacity: 0.675; text-decoration: line-through;">
+		<span>
 			macOS
 			&middot;
 			Windows
@@ -27,9 +27,8 @@
 			&middot;
 			Android
 		</span>
-	</p>
-	<p align="center" style="opacity: 0.85;">
-		Links will be added once a release is available.
+		<br />
+		⚠️ Links will be added once a release is available.
 	</p>
 	</p>
 </div>
