@@ -1,62 +1,67 @@
-<p align="center">
-  <a href="#">
-    
-  </a>
-  <p align="center">
-   <img width="150" height="150" src="https://github.com/spacedriveapp/spacedrive/blob/main/packages/assets/images/logo.png" alt="Logo">
-  </p>
-  <h1 align="center"><b>Spacedrive</b></h1>
-  <p align="center">
-  A file explorer from the future.
-    <br />
-    <a href="https://spacedrive.com"><strong>spacedrive.com »</strong></a>
-    <br />
-    <br />
-    <b>Download for </b>
-    macOS
-    ·
-    Windows
-    ·
-    Linux
-    ·
-    iOS
-    ·
-    watchOS
-    ·
-    Android
-    <br />
-    <i>~ Links will be added once a release is available. ~</i>
-  </p>
-</p>
+<div>
+	<!-- Logo -->
+	<p align="center">
+	 <img width="150" height="150" src="https://github.com/spacedriveapp/spacedrive/blob/main/packages/assets/images/logo.png" alt="" />
+	</p>
+	<!-- Title -->
+	<h1 align="center">
+		<strong>Spacedrive</strong>
+	</h1>
+	<!-- Tagline & CTA -->
+	<p align="center">
+		A file explorer from the future.
+		<br />
+		<a href="https://spacedrive.com"><strong>spacedrive.com</strong><span role="img" aria-label="Visit website"> »</span></a>
+	</p>
+	<p align="center" style="margin-bottom: 0;">
+		<br />
+		<strong>Download for:</strong>
+		<span style="opacity: 0.675; text-decoration: line-through;">
+			macOS
+			&middot;
+			Windows
+			&middot;
+			Linux
+			&middot;
+			iOS
+			&middot;
+			Android
+		</span>
+	</p>
+	<p align="center" style="opacity: 0.85;">
+		Links will be added once a release is available.
+	</p>
+	</p>
+</div>
 Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (<a href="#what-is-a-vdfs">VDFS</a>) written in Rust. 
 <br/>
 <br/>
 
-> NOTE: Spacedrive is under active development, most of the listed features are still experimental and subject to change.
+> NOTE: Spacedrive is under active development. Most of the features listed are experimental and subject to change.
 
-Organize files across many devices in one place. From cloud services to offline hard drives, Spacedrive combines the storage capacity and processing power of your devices into one personal distributed cloud, that is both secure and intuitive to use.
+Organize files across many devices in one place. From cloud services to offline hard drives, Spacedrive combines the storage and processing power of your devices into a secure and intuitive personal distributed cloud.
 
 For independent creatives, hoarders and those that want to own their digital footprint, Spacedrive provides a free file management experience like no other.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spacedriveapp/spacedrive/main/apps/landing/public/app.png" alt="App screenshot">
-  <br />
-  <br />
-  <a href="https://discord.gg/gTaF2Z44f5">
-    <img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
-  </a>
-  <a href="https://twitter.com/spacedriveapp">
-    <img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/spacedriveapp">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.gnu.org/licenses/agpl-3.0">
-    <img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
-  </a>
-  <img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
-  <img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
-  <br />
+	<img src="https://raw.githubusercontent.com/spacedriveapp/spacedrive/main/apps/landing/public/app.png" alt="App screenshot">
+	<br />
+	<br />
+	<a href="https://discord.gg/gTaF2Z44f5">
+		<img src="https://img.shields.io/discord/949090953497567312?label=Discord&color=5865F2" />
+	</a>
+	<a href="https://twitter.com/spacedriveapp">
+		<img src="https://img.shields.io/badge/Twitter-00acee?logo=twitter&logoColor=white" />
+	</a>
+	<a href="https://instagram.com/spacedriveapp">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+	</a>
+	<a href="https://www.gnu.org/licenses/agpl-3.0">
+		<img src="https://img.shields.io/static/v1?label=Licence&message=AGPL%20v3&color=000" />
+	</a>
+	<img src="https://img.shields.io/static/v1?label=Bundled%20Size&message=16.3MB&color=0974B4" />
+	<img src="https://img.shields.io/static/v1?label=Stage&message=Alpha&color=2BB4AB" />
+	<br />
 </p>
 
 # What is a VDFS?
