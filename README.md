@@ -30,13 +30,17 @@
 		<br />
 		⚠️ Links will be added once a release is available.
 	</p>
-	</p>
 </div>
-Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (<a href="#what-is-a-vdfs">VDFS</a>) written in Rust. 
-<br/>
+
+Spacedrive is an open source cross-platform file manager, powered by a virtual distributed filesystem (<a href="#what-is-a-vdfs">VDFS</a>) written in Rust.
+
 <br/>
 
-> NOTE: Spacedrive is under active development. Most of the features listed are experimental and subject to change.
+---
+
+<br/>
+
+**⚠ Spacedrive is under active development.** Most of the features listed are experimental and subject to change.
 
 Organize files across many devices in one place. From cloud services to offline hard drives, Spacedrive combines the storage and processing power of your devices into a secure and intuitive personal distributed cloud.
 
