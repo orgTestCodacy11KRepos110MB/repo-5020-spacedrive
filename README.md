@@ -28,7 +28,7 @@
 			Android
 		</span>
 		<br />
-		⚠️ Links will be added once a release is available.
+		<em>Links will be added once a release is available!</em>
 	</p>
 </div>
 
